@@ -15,8 +15,7 @@ tags:
 > 做了个 Markdown → HTML 工具，一键复制到公众号。开源了，有需要的可以直接用。
 ```
 
-https://www.gwifloria.space/tools/md-to-wechat
-
+https://www.gwifloria.space/workshop/card
 ### 痛点：Markdown 到公众号的距离
 
 上周在公众号后台调了半小时格式，突然意识到：这种重复劳动为什么不能自动化？
